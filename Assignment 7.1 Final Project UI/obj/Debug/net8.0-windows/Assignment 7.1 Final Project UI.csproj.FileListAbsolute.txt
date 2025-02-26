@@ -1,0 +1,18 @@
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\bin\Debug\net8.0-windows\Assignment 7.1 Final Project UI.exe
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\bin\Debug\net8.0-windows\Assignment 7.1 Final Project UI.deps.json
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\bin\Debug\net8.0-windows\Assignment 7.1 Final Project UI.runtimeconfig.json
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\bin\Debug\net8.0-windows\Assignment 7.1 Final Project UI.dll
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\bin\Debug\net8.0-windows\Assignment 7.1 Final Project UI.pdb
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment_7._1_Final_Project_UI.Form1.resources
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.csproj.GenerateResource.cache
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.AssemblyInfoInputs.cache
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.AssemblyInfo.cs
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.csproj.CoreCompileInputs.cache
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.dll
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\refint\Assignment 7.1 Final Project UI.dll
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.pdb
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment 7.1 Final Project UI.genruntimeconfig.cache
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\ref\Assignment 7.1 Final Project UI.dll
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment_7._1_Final_Project_UI.Form2.resources
+C:\Users\uthma\source\repos\Assignment 7.1 Final Project UI\Assignment 7.1 Final Project UI\obj\Debug\net8.0-windows\Assignment_7._1_Final_Project_UI.Form3.resources
