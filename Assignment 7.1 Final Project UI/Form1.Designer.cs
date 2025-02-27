@@ -37,7 +37,7 @@
             // 
             labelnumber.AutoSize = true;
             labelnumber.Font = new Font("Segoe UI", 15F, FontStyle.Bold | FontStyle.Italic);
-            labelnumber.Location = new Point(156, 57);
+            labelnumber.Location = new Point(224, 56);
             labelnumber.Name = "labelnumber";
             labelnumber.Size = new Size(169, 28);
             labelnumber.TabIndex = 0;
@@ -47,7 +47,7 @@
             // textBoxnumber
             // 
             textBoxnumber.Font = new Font("Segoe UI", 12F);
-            textBoxnumber.Location = new Point(55, 101);
+            textBoxnumber.Location = new Point(109, 111);
             textBoxnumber.Name = "textBoxnumber";
             textBoxnumber.Size = new Size(404, 29);
             textBoxnumber.TabIndex = 1;
@@ -57,7 +57,7 @@
             button.BackColor = Color.Lime;
             button.Font = new Font("Segoe UI", 12F);
             button.ForeColor = SystemColors.ActiveCaptionText;
-            button.Location = new Point(156, 159);
+            button.Location = new Point(224, 180);
             button.Name = "button";
             button.Size = new Size(169, 36);
             button.TabIndex = 2;
@@ -69,8 +69,8 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(485, 555);
+            BackColor = SystemColors.HotTrack;
+            ClientSize = new Size(607, 340);
             Controls.Add(button);
             Controls.Add(textBoxnumber);
             Controls.Add(labelnumber);

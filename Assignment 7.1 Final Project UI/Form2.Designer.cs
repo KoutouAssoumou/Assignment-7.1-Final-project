@@ -39,7 +39,7 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 15F, FontStyle.Bold | FontStyle.Italic);
-            label1.Location = new Point(368, 22);
+            label1.Location = new Point(248, 22);
             label1.Name = "label1";
             label1.Size = new Size(104, 28);
             label1.TabIndex = 0;
@@ -50,24 +50,24 @@
             comboBoxType.Font = new Font("Segoe UI", 15F);
             comboBoxType.FormattingEnabled = true;
             comboBoxType.Items.AddRange(new object[] { "Admin", "User" });
-            comboBoxType.Location = new Point(168, 66);
+            comboBoxType.Location = new Point(88, 80);
             comboBoxType.Name = "comboBoxType";
-            comboBoxType.Size = new Size(497, 36);
+            comboBoxType.Size = new Size(391, 36);
             comboBoxType.TabIndex = 1;
             // 
             // textBoxenter
             // 
             textBoxenter.Font = new Font("Segoe UI", 15F);
-            textBoxenter.Location = new Point(168, 150);
+            textBoxenter.Location = new Point(88, 191);
             textBoxenter.Name = "textBoxenter";
-            textBoxenter.Size = new Size(497, 34);
+            textBoxenter.Size = new Size(391, 34);
             textBoxenter.TabIndex = 2;
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 15F, FontStyle.Bold | FontStyle.Italic);
-            label2.Location = new Point(392, 108);
+            label2.Location = new Point(267, 135);
             label2.Name = "label2";
             label2.Size = new Size(53, 28);
             label2.TabIndex = 3;
@@ -77,7 +77,7 @@
             // 
             button1.BackColor = Color.FromArgb(255, 255, 192);
             button1.Font = new Font("Segoe UI", 15F, FontStyle.Bold);
-            button1.Location = new Point(321, 220);
+            button1.Location = new Point(192, 252);
             button1.Name = "button1";
             button1.Size = new Size(197, 41);
             button1.TabIndex = 4;
@@ -90,7 +90,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.InactiveCaption;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(601, 345);
             Controls.Add(button1);
             Controls.Add(label2);
             Controls.Add(textBoxenter);
