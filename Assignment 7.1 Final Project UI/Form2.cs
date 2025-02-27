@@ -20,11 +20,17 @@ namespace Assignment_7._1_Final_Project_UI
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            //check if the input is an integer
             string texte = textBoxenter.Text;
+
+            //check if the input is admin or user
             if (comboBoxType.SelectedItem != null && comboBoxType.SelectedItem.ToString() == "Admin")
             {
-                
 
+
+
+                //check if the input is an integer or uppercase or lowercase
                 if (Regex.IsMatch(texte, @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).+$"))
                 {
                     MessageBox.Show("The User is an Admin.");
@@ -37,6 +43,8 @@ namespace Assignment_7._1_Final_Project_UI
             }
             else
             {
+
+                //check if the input is an uppercase or lowercase
                 if (Regex.IsMatch(texte, @"^[a-zA-Z]+$"))
                 {
                     MessageBox.Show("The User is a simple User");

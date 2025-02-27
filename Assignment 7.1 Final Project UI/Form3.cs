@@ -19,12 +19,16 @@ namespace Assignment_7._1_Final_Project_UI
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            //open window form1
             Form1 form1 = new Form1();
             form1.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+
+            //open window form2
             Form2 form2 = new Form2();
             form2.Show();
         }

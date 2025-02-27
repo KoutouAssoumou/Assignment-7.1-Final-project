@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form3.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form3.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:49:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:44:31.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:39:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form3.Designer.cs",
               "DocumentMoniker": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form3.Designer.cs",
               "RelativeDocumentMoniker": "Form3.Designer.cs",
               "ToolTip": "C:\\Users\\assou\\source\\repos\\Assignment 7.1 Final Project UI\\Assignment 7.1 Final Project UI\\Form3.Designer.cs",
               "RelativeToolTip": "Form3.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T18:34:01.302Z",
               "EditorCaption": ""
